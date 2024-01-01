@@ -5,7 +5,7 @@
 <!-- ## I am Adib Moghimi -->
 <h2 align="center">Hi 👋, I am Adib Moghimi</h2>
 
-<p>I am a front-end develoer 💻, and I'm learning and practicing 📖 ✍ 📝 📈 </p>
+<p>I am a <h2>front-end develoer</h2> 💻, and I'm learning and practicing 📖 ✍ 📝 📈 </p>
 
 <h2>The skills and tools I use 🧰⚙</h2>
 
