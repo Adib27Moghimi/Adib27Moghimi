@@ -15,4 +15,4 @@
 <a href="https://www.linkedin.com/in/adib27moghimi/"><img style="width: 30px; heigh: 30px;" src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/linkedin.png?raw=true"></a>
 
 <h2>I am currently learning the following: 🌱</h2>
-<h3>JavaScript | 20%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%">
+<h3>JavaScript | 20%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%">  <h3>GitHub | 5%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="10%">
