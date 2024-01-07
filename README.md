@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=26&color=daa520&background=000024">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=26&color=daa520&background=000024">
   </a>
 </h1>
 <br>
@@ -12,22 +12,22 @@
 
 # 👀 About Me :
 
-) ✔ I'm Adib Moghimi and a front-end develoer 💻
-<br>
-) 🌍 I'm from Sanandaj and based there
-<br>
-) ✉️ You can contact me at [adib1991moghimi@gmail.com](mailto:adib1991moghimi@gmail.com)
-<br>
-) 💡 I am learning js
-<br>
-) 🤝 I'm open to collaborating on front-kend develop
-<br>
-) 📈 I'm currently practicing 💻 ✍ and working on learning new skills
-<br>
-<br>
+- ✔ I'm Adib Moghimi and a front-end develoer 💻
+  <br>
+- 🌍 I'm from Sanandaj and based there
+  <br>
+- ✉️ You can contact me at [adib1991moghimi@gmail.com](mailto:adib1991moghimi@gmail.com)
+  <br>
+- 💡 I am learning js
+  <br>
+- 🤝 I'm open to collaborating on front-kend develop
+  <br>
+- 📈 I'm currently practicing 💻 ✍ and working on learning new skills
+  <br>
+  <br>
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=daa520&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=2f9b19&labelColor=1c1917" /></a>
 
 <br>
 <br>
@@ -43,27 +43,27 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ### 💻 Skills and ⚙ tools :
 
-#### 📋 Languages <br>
+#### 📋 Languages
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### 🎨 Design <br>
+#### 🎨 Design
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-#### 🧑‍💻 Developer/Forums <br>
+#### 🧑‍💻 Developer/Forums
 
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) <br>
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-#### 📚 Frameworks, Platforms and Libraries <br>
+#### 📚 Frameworks, Platforms and Libraries
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) <br>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-#### 💻 IDEs/Editors <br>
+#### 💻 IDEs/Editors
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) <br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-#### 🕓 Version Control <br>
+#### 🕓 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
