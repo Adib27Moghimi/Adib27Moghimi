@@ -26,7 +26,7 @@
   <br>
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=2b9e14&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=447744&labelColor=1c1917" /></a>
 
 <br>
 <br>
