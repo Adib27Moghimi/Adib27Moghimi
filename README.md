@@ -1,27 +1,14 @@
-# Who am I?
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
+</a>
 
-<img src="https://github.com/Adib27Moghimi/Adib27Moghimi/assets/119744049/9dcff5ad-93d9-42a5-ac92-c1c436548c63.svg" alt="Just for fun :D">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
+  </a>
+</h1>
 
-<!-- ## I am Adib Moghimi -->
-<h2>Hi 👋, I am Adib Moghimi</h2>
-
-<h2>I am a front-end develoer 💻, and I'm learning and practicing 💻 ✍  📈</h2>
-<br>
-<br>
-<h2>The skills and tools I use 🧰⚙</h2>
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-<p font-size="28px">contact with me 📞</p>
-<a href="https://www.linkedin.com/in/adib27moghimi/"><img style="width: 30px; height: 30px;" src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/linkedin.png?raw=true"></a>
-
-<br>
-<br>
-
-<h2>I am currently learning the following: 🌱</h2>
-<h3>JavaScript | 20%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%" height="16px">  <h3>GitHub | 10%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="10%" height="16px">
+======================================================================================
 
 <a href=https://github.com/Adib27Moghimi>
 <img align=center src=https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&show_icons=true&count_private=true&include_all_commits=true /></a>
@@ -30,5 +17,42 @@
 <img align=center src=https://github-readme-stats.vercel.app/api/top-langs/?username=Adib27Moghimi />
 </a>
 
-&theme=tokyonight
+#👀 About Me:
 
+. I'm Adib Moghimi and a 💻 front-end develoer
+. 🌍 I'm from Sanandaj and based there
+. ✉️ You can contact me at [adib1991moghimi@gmail.com](mailto:adib1991moghimi@gmail.com)
+. 💡 I am learning js
+. 🤝 I'm open to collaborating on front-kend develop
+. 📈 I'm currently practicing 💻 ✍ 📈 and working on learning new skills!
+<a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
+<br>
+
+### 🌐 Socials:
+
+<p align="left"> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+ <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+
+### 💻 Skills and ⚙ tools:
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+<br>
+
+<b>📊 My GitHub Stats:</b>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+### I am currently learning and use the following: 🌱
+
+<p>JavaScript | 20%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%" height="16px">  <p>GitHub | 25%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="25%" height="16px">
+
+<img src="https://github.com/Adib27Moghimi/Adib27Moghimi/assets/119744049/9dcff5ad-93d9-42a5-ac92-c1c436548c63.svg" alt="Snake Animation">
