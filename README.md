@@ -23,4 +23,12 @@
 <h2>I am currently learning the following: 🌱</h2>
 <h3>JavaScript | 20%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%" height="16px">  <h3>GitHub | 10%</h3> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="10%" height="16px">
 
+<a href=&quothttps://github.com/Adib27Moghimi&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=Adib27Moghimi&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+
+<a href=&quothttps://github.com/Adib27Moghimi&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Adib27Moghimi&quot />
+</a>
+
+&theme=tokyonight
 
