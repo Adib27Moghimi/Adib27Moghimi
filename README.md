@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=26&color=daa520&background=000024">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=28&color=daa520&background=FFFFFF00">
   </a>
 </h1>
 <br>
@@ -27,7 +27,7 @@
   <br>
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=2f9b19&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=daa520&labelColor=1c1917" /></a>
 
 <br>
 <br>
@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 #### 🕓 Version Control
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=df7219) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 <br>
@@ -83,6 +83,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ### I am currently learning and use the following : 🌱
 
+<br>
 <p>JavaScript | 20%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%" height="10px">  <p>GitHub | 25%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="25%" height="10px">
 
 <br>
