@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&descSize=30&type=waving&color=0:EEFF00,100:a82da8&customColorList=0,2,2,5,30&height=180&section=header&animation=twinkling&rotate=-30&theme=radical"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:EEFF00,100:a82da8&customColorList=0,2,2,5,30&height=140&section=header&animation=twinkling&rotate=-30&theme=radical"/>
 </a>
 
 <h1 align="center">
@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ## 🌐 Socials
 
-<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer"><img src="./telegram-icone-circle2.jpeg" width="32" height="32" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"><a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
 <br>
