@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daa520&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?text=Hello%World!&desc=Hello%20capsule%20render&fontColor=d6ace6&fontSize=40&descSize=30&type=waving&color=0:EEFF00,100:a82da8&customColorList=0,2,2,5,30&height=180&section=header&animation=twinkling&rotate=-30&theme=radical"/>
 </a>
 
 <h1 align="center">
@@ -26,15 +26,14 @@
   <br>
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=168616&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=447744&labelColor=1c1917" /></a>
 
 <br>
 <br>
 
 ## 🌐 Socials
 
-<p align="left"> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer" margin-right="5px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer" margin-right="5px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer" margin-right="5px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer"><img src="./telegram-icone-circle.png" width="32" height="32" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
 <br>
@@ -76,16 +75,3 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-<br>
-<br>
-
-## I am currently learning and use the following 🌱
-
-<br>
-<p>JavaScript | 20%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="20%" height="10px">  <p>GitHub | 25%</p> <img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/image/bar.png?raw=true" width="25%" height="10px">
-
-<br>
-<br>
-
-<img src="https://github.com/Adib27Moghimi/Adib27Moghimi/assets/119744049/9dcff5ad-93d9-42a5-ac92-c1c436548c63.svg" alt="Snake Animation">
