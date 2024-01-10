@@ -1,11 +1,13 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=header&animation=twinkling"/>
 </a>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=32&color=daa520&background=FFFFFF00">
   </a>
 </h1>
+
 # 👀 About Me
 
 - ✔ I'm Adib Moghimi and a front-end develoer 💻
@@ -71,6 +73,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=footer&animation=twinkling"/>
 </a>
