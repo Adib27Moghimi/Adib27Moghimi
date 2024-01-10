@@ -2,13 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=140&section=header&animation=twinkling"/>
 </a>
 
-<h1 align="center">
+<h1 align="center" margin="0 0 100px 0">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=28&color=daa520&background=FFFFFF00">
   </a>
 </h1>
-<br>
-<br>
 
 # 👀 About Me
 
