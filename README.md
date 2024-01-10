@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=140&section=header&animation=twinkling"/>
 </a>
 
-<h1 align="center" margin="0 0 100px 0">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=28&color=daa520&background=FFFFFF00">
   </a>
@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 <br>
 <br>
 
-## 🌐 Socials
+### 🌐 Socials
 
 <p align="left"><a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
