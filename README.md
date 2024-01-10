@@ -29,8 +29,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ## 🌐 Socials
 
-<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer" margin="5 0 0 0"><img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/Images/telegram-icone-circle.png" width="44" height="44" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-</p>
+<a href="https://t.me/Adib70m" target="_blank" rel="noreferrer" margin="5 0 0 0"><img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/Images/telegram-icone-circle.png" width="45" height="45" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 
 <br>
 <br>
