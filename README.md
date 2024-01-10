@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ## 🌐 Socials
 
-<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer"><img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/Images/telegram-icone-circle.png" width="42" height="42" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer"><img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/Images/telegram-icone-circle.png" width="44" height="44" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
 <br>
@@ -68,13 +68,14 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=5&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<a href='https://github.com/Adib27Moghimi/github-stats-transparent'>
+
+![Most Used Languages](https://raw.githubusercontent.com/Adib27Moghimi/github-stats-transparent/output/generated/languages.svg)
+</a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=footer&animation=twinkling"/>
 </a>
-
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
