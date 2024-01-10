@@ -73,7 +73,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 </div>
 <a href='https://github.com/Adib27Moghimi/github-stats-transparent'>
 
-![Most Used Languages](https://raw.githubusercontent.com/Adib27Moghimi/github-stats-transparent/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 </a>
 
 <a href="#">
