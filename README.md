@@ -1,13 +1,11 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=175&type=waving&color=0:eed70a,100:0808e8&height=160&section=header&animation=twinkling"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=header&animation=twinkling"/>
 </a>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=28&color=daa520&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+guys+👋;I'm+Adib+Moghimi;A+Front-end+developer(js);Nice+to+meet+you!&center=true&size=32&color=daa520&background=FFFFFF00">
   </a>
 </h1>
-
 # 👀 About Me
 
 - ✔ I'm Adib Moghimi and a front-end develoer 💻
@@ -24,14 +22,14 @@
   <br>
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=447744&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for-the-badge&color=4b4bd4&labelColor=8f8634" /></a>
 
 <br>
 <br>
 
 ## 🌐 Socials
 
-<p align="left"><a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"><a href="https://t.me/Adib70m" target="_blank" rel="noreferrer"><img src="https://github.com/Adib27Moghimi/Adib27Moghimi/blob/main/Images/telegram-icone-circle.png" width="32" height="32" /></a> <a href="https://github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adib27moghimi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22471093/adib-moghimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
 <br>
@@ -69,11 +67,11 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" width="33%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" width="33%" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" width="33%" alt="streak graph"  />
 </div>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=75&type=waving&color=0:eed70a,100:0808e8&height=160&section=footer&animation=twinkling"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=footer&animation=twinkling"/>
 </a>
