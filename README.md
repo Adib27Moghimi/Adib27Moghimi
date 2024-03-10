@@ -68,5 +68,3 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?fontColor=d6ace6&fontSize=40&type=waving&color=0:eed70a,100:0808e8&height=150&section=footer&animation=twinkling"/>
 </a>
-
----
