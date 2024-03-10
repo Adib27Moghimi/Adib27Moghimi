@@ -19,7 +19,7 @@
 - 🤝 I’m looking for help with **...**
 - 🔭 I’m currently working on **...**
 - 👯 I’m looking to collaborate on **...**
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at [my projects](https://www.github.com/Adib27Moghimi)
 - 💬 Ask me about (( _TailwindCss and JavaScript_ ))
 
 <a href="https://www.github.com/Adib27Moghimi" target="_blank" rel="noreferrer"><img 
@@ -49,7 +49,6 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
   <code><img title="GitHub" height="75" src="./images/github.svg" alt="GitHub"></code>
   <code><img title="Gitlab" height="75" src="./images/gitlab-icon.svg" alt="Gitlab"></code>
   <code><img title="Visual Studio Code" height="75" src="./images/vscode.png" alt="VSCode"></code>
-  <code><img title="Xd" height="75" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Xd"  /></code>
   <code><img title="figma" height="75" src="./images/figma.svg" alt="figma"  /></code>
 </p>
 
