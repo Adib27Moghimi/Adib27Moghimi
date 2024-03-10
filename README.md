@@ -36,7 +36,11 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ## 💻⚙ Skills and tools
 
-#### 📋 Languages , 🎨 Design , 🧑‍💻 Developer/Forums , 📚 Frameworks, Platforms and Libraries , 💻 IDEs/Editors and 🕓 Version Control :
+#### <p>
+
+📋 Languages , 🎨 Design , 🧑‍💻 Developer/Forums , 💻 IDEs/Editors
+
+📚 Frameworks, Platforms and Libraries , and 🕓 Version Control :</p>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
