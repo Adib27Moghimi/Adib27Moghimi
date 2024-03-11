@@ -29,10 +29,12 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 
 ## 🌐 Socials :
 
-<p align="left"> 
-  <a href="https://codepen.io/adib27moghimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adib27moghimi" height="60" /></a>
-  <a href="https://linkedin.com/in/adib27moghimi" target="blank"><img align="center" src="./images/linkedin-icon.svg" alt="adib27moghimi" height="60" /></a>
-  <a href="https://stackoverflow.com/users/22471093" target="blank"><img align="center" src="./images/stackoverflow-icon.svg" alt="22471093" height="60" /></a>
+<p align="left">
+
+<a href="https://codepen.io/adib27moghimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" alt="adib27moghimi" height="60" /></a>
+<a href="https://linkedin.com/in/adib27moghimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="adib27moghimi" height="60" /></a>
+<a href="https://stackoverflow.com/users/22471093" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="22471093" height="60" /></a>
+
 </p>
 
 <br>
@@ -40,29 +42,29 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 ## 💻⚙ Skills and tools :
 
 <p align="left">
-  <code><img title="HTML5" height="60" src="./images/html5-icon.svg" alt="HTML5"></code>
-  <code><img title="CSS3" height="60" src="./images/css-icon.svg" alt="CSS3"></code>
-  <code><img title="SASS" height="60" src="./images/sass.svg" alt="SASS"></code>
-  <code> <img title="bootstrap5"  height="60" src="./images/bootstrap.svg" alt="bootstrap5" /></code>
-  <code><img title="tailwind"  height="60" src="./images/tailwindcss.svg" alt="tailwind" /></code>
-  <code><img title="JQuery" height="60" src="./images/jquery-original.svg" alt="JQuery"></code>
-  <code><img title="Javascript" height="60" src="./images/javascript.svg" alt="Javascript"></code>
+  <code><img title="html5" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5"></code>
+  <code><img title="css3" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3"></code>
+  <code><img title="sass" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="sass"></code>
+  <code> <img title="bootstrap"  height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="bootstrap"/></code>
+  <code><img title="tailwindcss"  height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwindcss"/></code>
+  <code><img title="jquery" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jquery"></code>
+  <code><img title="javascript" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="javascript"></code>
   <code><img title="npm" height="60" src="./images/npm.svg" alt="npm"></code>
   <code><img title="Problem Solving" height="60" src="./images/problemSolving.png" alt="Problem Solving"></code>
-  <code><img title="Git" height="60" src="./images/git-original.svg" alt="Git"></code>
-  <code><img title="GitHub" height="60" src="./images/github.svg" alt="GitHub"></code>
+  <code><img title="git" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="git"></code>
+  <code><img title="github" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="github"></code>
   <code><img title="Gitlab" height="60" src="./images/gitlab-icon.svg" alt="Gitlab"></code>
-  <code><img title="Visual Studio Code" height="60" src="./images/vscode.png" alt="VSCode"></code>
-  <code><img title="adobe xd" height="60" src="./images/adobe-xd-icon.svg" alt="adobe xd" /></code>
-  <code><img title="figma" height="60" src="./images/figma.svg" alt="figma"  /></code>
+ <code><img title="visualstudiocode" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="visualstudiocode-colored"></code>
+ <code><img title="adobe xd" height="60" src="./images/adobe-xd-icon.svg" alt="adobe xd"/></code>
+ <code><img title="figma" height="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="figma"/></code>
 </p>
 
 <br>
 
 ## 📊 GitHub Stats and 🏆 GitHub Profile Trophy :
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5" width="48%" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" width="48%" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Adib27Moghimi&theme=onestar" height="170" alt="github-profile-trophy"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adib27Moghimi&theme=onestar&row=2&column=4" alt="github-profile-trophy"  />
 </div>
