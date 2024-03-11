@@ -62,7 +62,7 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 ## 📊 GitHub Stats and 🏆 GitHub Profile Trophy :
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5" width="50%" height="150" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5" width="48%" height="150" alt="languages graph"  />
   <img align="right" src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" width="48%" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=Adib27Moghimi&theme=onestar" height="170" alt="github-profile-trophy"  />
 </div>
