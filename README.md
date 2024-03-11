@@ -58,9 +58,9 @@ src="https://img.shields.io/github/followers/Adib27Moghimi?logo=github&style=for
 ## 📊 GitHub Stats and 🏆 GitHub Profile Trophy :
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=5&order=1" width=50% height="150" alt="stats graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5&order=2" width=50% height="150" alt="languages graph"  />
-  <img align="left" src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" width=50% height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adib27Moghimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=5&order=1" width=32% height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adib27Moghimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&border_radius=5&order=2" width=35% height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Adib27Moghimi&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" width=32% height="150" alt="streak graph"  />
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=adib27moghimi&theme=onestar&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
